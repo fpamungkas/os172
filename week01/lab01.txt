@@ -22,3 +22,5 @@ drwxr-xr-x 11 muhammad.fajar72 StafCS 4096 Sep  7 16:29 week10
 drwxr-xr-x  2 muhammad.fajar72 StafCS 4096 Sep  7 16:32 xtra
 /home/fasilkom/mahasiswa/m/muhammad.fajar72/os172/week01
 /home/fasilkom/mahasiswa/m/muhammad.fajar72/os172/week01
+Today is 
+Today is 07 Sep 2017 at 17:02:29
