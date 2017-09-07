@@ -1,0 +1,24 @@
+total 76
+drwxr-xr-x 18 muhammad.fajar72 StafCS 4096 Sep  7 16:35 .
+drwx--x--x  3 muhammad.fajar72 StafCS 4096 Sep  7 16:35 ..
+drwxr-xr-x  8 muhammad.fajar72 StafCS 4096 Sep  7 16:24 .git
+-rw-r--r--  1 muhammad.fajar72 StafCS    7 Sep  7 16:24 README.md
+-rw-r--r--  1 muhammad.fajar72 StafCS    0 Sep  7 16:32 extra
+drwxr-xr-x  2 muhammad.fajar72 StafCS 4096 Sep  7 16:32 key
+-rw-r--r--  1 muhammad.fajar72 StafCS    0 Sep  7 16:36 lab01.txt
+drwxr-xr-x  2 muhammad.fajar72 StafCS 4096 Sep  7 16:32 log
+drwxr-xr-x  2 muhammad.fajar72 StafCS 4096 Sep  7 16:33 sandbox
+drwxr-xr-x  2 muhammad.fajar72 StafCS 4096 Sep  7 16:35 week00
+drwxr-xr-x  2 muhammad.fajar72 StafCS 4096 Sep  7 16:25 week01
+drwxr-xr-x  2 muhammad.fajar72 StafCS 4096 Sep  7 16:31 week02
+drwxr-xr-x  2 muhammad.fajar72 StafCS 4096 Sep  7 16:31 week03
+drwxr-xr-x  2 muhammad.fajar72 StafCS 4096 Sep  7 16:31 week04
+drwxr-xr-x  2 muhammad.fajar72 StafCS 4096 Sep  7 16:31 week05
+drwxr-xr-x  2 muhammad.fajar72 StafCS 4096 Sep  7 16:31 week06
+drwxr-xr-x  2 muhammad.fajar72 StafCS 4096 Sep  7 16:31 week07
+drwxr-xr-x  2 muhammad.fajar72 StafCS 4096 Sep  7 16:31 week08
+drwxr-xr-x  2 muhammad.fajar72 StafCS 4096 Sep  7 16:31 week09
+drwxr-xr-x 11 muhammad.fajar72 StafCS 4096 Sep  7 16:29 week10
+drwxr-xr-x  2 muhammad.fajar72 StafCS 4096 Sep  7 16:32 xtra
+/home/fasilkom/mahasiswa/m/muhammad.fajar72/os172/week01
+/home/fasilkom/mahasiswa/m/muhammad.fajar72/os172/week01

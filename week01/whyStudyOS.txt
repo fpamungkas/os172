@@ -1,0 +1,3 @@
+fpamungkas
+
+it's very important to know how OS is work, because all of our work is run on the OS. OS makes hardware work for us.
