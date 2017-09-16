@@ -1,0 +1,6 @@
+/home/fasilkom/mahasiswa/m/muhammad.fajar72/.gnupg/pubring.gpg
+--------------------------------------------------------------
+pub   4096R/F1F3F077 2017-09-16 [expires: 2018-03-15]
+uid                  Muhammad Fajar Pamungkas (studying OS is fun!!!) <muhammad.fajar72@ui.ac.id>
+sub   4096R/2B026967 2017-09-16 [expires: 2018-03-15]
+

@@ -1,0 +1,5 @@
+total 104
+drwxr-xr-x 2 muhammad.fajar72 StafCS  4096 Sep 16 09:05 .
+drwxr-xr-x 3 muhammad.fajar72 StafCS  4096 Sep 16 09:03 ..
+-rw-r--r-- 1 muhammad.fajar72 StafCS 48214 Sep 16 09:04 00-toc.txt
+-rw-r--r-- 1 muhammad.fajar72 StafCS 47626 Sep 16 09:04 01-public-osteam.txt
